@@ -11,7 +11,7 @@
   "signinUrl": "",
   "signupUrl": "",
   "settingsUrl": "",
-  "staff": ["rathi.dpk9@gmail.com"],
+  "staff": "rathi.dpk9@gmail.com",
   "allowEmailAliases": true,
   "facebookSignin": false,
   "publicEmails": false,
